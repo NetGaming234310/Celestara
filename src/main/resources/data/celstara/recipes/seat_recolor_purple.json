@@ -1,0 +1,11 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "ingredients": [
+    { "item": "celestara:cockpit_seat_any" },
+    { "item": "minecraft:purple_dye" }
+  ],
+  "result": {
+    "item": "celestara:cockpit_seat_purple",
+    "count": 1
+  }
+}

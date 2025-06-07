@@ -1,0 +1,15 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "GGG",
+    "RDR",
+    "III"
+  ],
+  "key": {
+    "G": { "item": "minecraft:glass" },
+    "R": { "item": "minecraft:redstone" },
+    "D": { "item": "minecraft:diamond" },
+    "I": { "item": "minecraft:iron_ingot" }
+  },
+  "result": { "item": "celestara:research_console" }
+}
