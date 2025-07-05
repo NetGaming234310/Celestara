@@ -1,0 +1,13 @@
+{
+  "itemGroup.celestara": "Example Mod Tab",
+  "block.celestara.example_block": "Example Block",
+  "item.celestara.example_item": "Example Item",
+
+  "celestara.configuration.title": "Celestara Configs",
+  "celestara.configuration.section.celestara.common.toml": "Celestara Configs",
+  "celestara.configuration.section.celestara.common.toml.title": "Celestara Configs",
+  "celestara.configuration.items": "Item List",
+  "celestara.configuration.logDirtBlock": "Log Dirt Block",
+  "celestara.configuration.magicNumberIntroduction": "Magic Number Text",
+  "celestara.configuration.magicNumber": "Magic Number"
+}
