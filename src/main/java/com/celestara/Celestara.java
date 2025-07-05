@@ -32,6 +32,10 @@ import net.neoforged.neoforge.registries.DeferredItem;
 import net.neoforged.neoforge.registries.DeferredRegister;
 
 // The value here should match an entry in the META-INF/neoforge.mods.toml file
+
+
+
+// test test test
 @Mod(Celestara.MODID)
 public class Celestara {
     // Define mod id in a common place for everything to reference
