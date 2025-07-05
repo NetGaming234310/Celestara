@@ -1,0 +1,16 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "IGI",
+    "IGI",
+    "IGI"
+  ],
+  "key": {
+    "I": { "item": "minecraft:iron_ingot" },
+    "G": { "item": "minecraft:glass_pane" }
+  },
+  "result": {
+    "item": "celestara:blast_door",
+    "count": 1
+  }
+}

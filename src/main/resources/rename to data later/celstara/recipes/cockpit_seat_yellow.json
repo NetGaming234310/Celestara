@@ -1,0 +1,16 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    " I ",
+    " W ",
+    " I "
+  ],
+  "key": {
+    "I": { "item": "minecraft:iron_ingot" },
+    "W": { "item": "minecraft:yellow_wool" }
+  },
+  "result": {
+    "item": "celestara:cockpit_seat_yellow",
+    "count": 1
+  }
+}
